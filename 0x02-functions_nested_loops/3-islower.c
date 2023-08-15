@@ -2,7 +2,7 @@
 
 /**
  * _islower - check the code if lowercase
- * parameter c: is a variable int
+ * parameter: is a variable int
  * Return: 1 or 0.
  */
 int	_islower(int c)
