@@ -1,10 +1,5 @@
 #include "main.h"
 
-/**
- * @brief
- *
- */
-
 int	_islower(int c)
 {
 	if (c >= 'a' && c <= 'z')
