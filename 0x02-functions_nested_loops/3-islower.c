@@ -4,6 +4,7 @@
  * _islower - check the code if lowercase
  *
  * Return: 1 or 0.
+ * c: is a variable int
  */
 int	_islower(int c)
 {
