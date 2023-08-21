@@ -72,7 +72,7 @@ Please note that you are required to complete the tasks yourself and not copy or
 
 ## Contact
 
-For any questions or clarifications, feel free to reach out to the project author, [ALLAL EL BAKOURI] (https://www.linkedin.com/in/allal-el-bakouri-ba3565205).
+For any questions or clarifications, feel free to reach out to the project author, [ALLAL EL BAKOURI](https://www.linkedin.com/in/allal-el-bakouri-ba3565205).
 
 ---
 
