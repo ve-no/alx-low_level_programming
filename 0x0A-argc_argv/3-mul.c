@@ -1,5 +1,4 @@
 #include "main.h"
-
 /**
  * main - multiply 2numbers
  * @argc: number

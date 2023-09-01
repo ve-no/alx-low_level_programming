@@ -1,5 +1,4 @@
 #include "main.h"
-
 /**
  * main - write the number of arguments
  * @argc: number
@@ -7,7 +6,6 @@
  *
  * Return:  0
  */
-
 int main(int ac, char **av)
 {
 	(void) av;

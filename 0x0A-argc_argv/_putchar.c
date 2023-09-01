@@ -1,5 +1,4 @@
 #include "main.h"
-
 /**
  * _putchar - writes a char
  * @c:printed string

@@ -1,5 +1,4 @@
 #include "main.h"
-
 /**
  * main - writ the programs name
  * @argc: number of array arg
