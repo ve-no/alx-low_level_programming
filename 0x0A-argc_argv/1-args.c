@@ -1,8 +1,8 @@
 #include "main.h"
 /**
  * main - write the number of arguments
- * @argc: number
- * @argv: array
+ * @ac: number
+ * @av: array
  *
  * Return:  0
  */

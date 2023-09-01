@@ -1,8 +1,8 @@
 #include "main.h"
 /**
  * main - multiply 2numbers
- * @argc: number
- * @argv: array
+ * @ac: number
+ * @av: array
  *
  * Return: 0
  */

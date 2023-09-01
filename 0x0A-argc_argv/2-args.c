@@ -1,8 +1,8 @@
 #include "main.h"
 /**
  * main - writ arguments
- * @argc: nbr arry
- * @argv: array
+ * @ac: nbr arry
+ * @av: array
  *
  * Return: 0 success
  */
