@@ -1,8 +1,8 @@
 #include "main.h"
 /**
  * main - writ the programs name
- * @argc: number of array arg
- * @argv: arguments
+ * @ac: number of array arg
+ * @av: arguments
  * Return: 0 if Success
  */
 int main(int ac, char **av)
