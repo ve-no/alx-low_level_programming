@@ -11,6 +11,7 @@ char *str_concat(char *s1, char *s2)
 {
 	char *join;
 	int i = 0, j = 0;
+	
 	if (!s1)
 		s1 = "\0";
 	if (!s2)
@@ -25,5 +26,4 @@ char *str_concat(char *s1, char *s2)
 		join[j++] = s2[i++];
 	join[j] = '\0';
 	return (join);
-
 }
