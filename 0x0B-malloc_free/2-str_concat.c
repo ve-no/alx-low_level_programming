@@ -12,10 +12,6 @@ char *str_concat(char *s1, char *s2)
 	char *join;
 	int i = 0, j = 0;
 
-	if (!s1)
-		s1 = "\0";
-	if (!s2)
-		s2 = "\0";
 	join = malloc(strlen(s1) + strlen(s2) + 1);
 	if (!join)
 		return (NULL);
