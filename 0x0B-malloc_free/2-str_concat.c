@@ -21,8 +21,8 @@ char *str_concat(char *s1, char *s2)
 	while (s1[i])
 		join[j++] = s1[i++];
 	i = 0;
-	while (s1[i])
-		join[j++] = s1[i++];
+	while (s2[i])
+		join[j++] = s2[i++];
 	join[j] = '\0';
 	return (join);
 
