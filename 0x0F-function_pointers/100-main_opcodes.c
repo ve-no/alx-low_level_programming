@@ -13,7 +13,6 @@
 		int bytes, i;
 		char *arr;
 
-
 		if (argc != 2)
 		{
 			printf("Error\n");
@@ -29,7 +28,6 @@
 		}
 
 		arr = (char *)main;
-
 
 		for (i = 0; i < bytes; i++)
 		{
